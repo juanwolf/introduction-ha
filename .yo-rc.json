@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Des outils Unix qui aident dans la vie de tous les jours",
+    "packageVersion": "0.1.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "juanwolf",
+    "githubRepository": "slides-unix-tools"
+  }
+}

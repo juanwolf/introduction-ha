@@ -1,0 +1,23 @@
+[
+    "index.md",
+    [
+      "qui-suis-je/index.html",
+      "qui-suis-je/university.html",
+      "qui-suis-je/web-dev.html",
+      "qui-suis-je/sys-dev.html"
+    ],
+    [
+      "pourquoi/index.html",
+      "pourquoi/everyone_needs_a_sysadmin.html"
+    ],
+    "table_des_matieres.html",
+    [
+      "ha/index.html",
+      "ha/lol.html",
+      "ha/definition.html",
+      "ha/comment.html",
+      "ha/redondance.html",
+      "ha/basculement.html",
+      "ha/adaptabilite.html"
+    ]
+]
