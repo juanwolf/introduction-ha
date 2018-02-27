@@ -1,5 +1,5 @@
 {
-  "name": "des-outils-unix-qui-aident-dans-la-vie-de-tous-les-jours",
+  "name": "Introduction a la haute disponibilite",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:juanwolf/slides-unix-tools.git"
+    "url": "git@github.com:juanwolf/introduction-ha.git"
   },
   "scripts": {
     "test": "grunt test"
