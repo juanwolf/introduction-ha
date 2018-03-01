@@ -10,14 +10,26 @@
       "pourquoi/index.html",
       "pourquoi/everyone_needs_a_sysadmin.html"
     ],
-    "table_des_matieres.html",
+    [
+      "table-des-matieres/index.html",
+      "table-des-matieres/ha.html",
+      "table-des-matieres/lol.html",
+      "table-des-matieres/scalabilite.md"
+    ],
     [
       "ha/index.html",
-      "ha/lol.html",
       "ha/definition.html",
       "ha/comment.html",
       "ha/redondance.html",
       "ha/basculement.html",
-      "ha/adaptabilite.html"
-    ]
+      "ha/exemple.md"
+    ],
+    [
+      "scalability/index.md",
+      "scalability/definition.md",
+      "scalability/methodes.md",
+      "scalability/verticale.html",
+      "scalability/horizontale.html"
+    ],
+    "questions.md"
 ]
