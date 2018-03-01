@@ -1,1 +1,1 @@
-## High Availability (Haute disponibilite)
+## Scalability
