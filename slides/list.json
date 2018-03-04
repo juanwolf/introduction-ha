@@ -22,14 +22,22 @@
       "ha/comment.html",
       "ha/redondance.html",
       "ha/basculement.html",
+      "ha/monitoring.html",
       "ha/exemple.md"
     ],
     [
-      "scalability/index.md",
-      "scalability/definition.md",
-      "scalability/methodes.md",
-      "scalability/verticale.html",
-      "scalability/horizontale.html"
+      "scalabilite/index.md",
+      "scalabilite/definition.md",
+      "scalabilite/methodes.md",
+      "scalabilite/verticale.html",
+      "scalabilite/horizontale.html"
+    ],
+    [
+      "scalabilite_dev/index.html",
+      "scalabilite_dev/design_pattern.html",
+      "scalabilite_dev/stateless.html",
+      "scalabilite_dev/master_slave.html",
+      "scalabilite_dev/queue.html"
     ],
     "questions.md"
 ]
