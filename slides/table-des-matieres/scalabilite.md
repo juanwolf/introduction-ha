@@ -1,1 +1,1 @@
-## Adaptivite ou _scalabilite_
+## Adaptivité ou _scalabilité_
